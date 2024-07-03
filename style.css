@@ -1280,6 +1280,7 @@ footer {
 }
 .two-words article {
 	font-size: 3rem;
+	padding: 0 10px;
 }
 .social-media-container {
 	display: flex;
