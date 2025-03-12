@@ -1017,7 +1017,8 @@ span.codeforces-logo:hover svg {
 .tech-stack-wrapper {
 	justify-content: center;
 	flex-wrap: wrap;
-	gap: 50px;
+	row-gap: 50px;
+	column-gap: 16px;
 	margin-top: 50px;
 }
 .tech-stack-box,
